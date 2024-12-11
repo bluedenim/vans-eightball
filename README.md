@@ -1,6 +1,6 @@
 # Van's Eightball (v8ball)
 
-Provides wise answers to whatever questions ails you at the moment.
+Provides wise answers to whatever questions ail you at the moment.
 
 ## Installation
 ```
